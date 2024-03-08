@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Irancell-black.ttf",
+      "sha1": "1cb316274ad2615122a4e9b6a37c7f9c8ab7dd42"
+    },
+    {
+      "path": "src/assets/fonts/Irancell-bold.ttf",
+      "sha1": "54643a2765da82815eb133b3301ab7aa1de59cb4"
+    },
+    {
+      "path": "src/assets/fonts/Irancell-light.ttf",
+      "sha1": "179636d1e96b0075e07acc7dc95c6175bf127ccb"
+    },
+    {
+      "path": "src/assets/fonts/Irancell-medium.ttf",
+      "sha1": "c099a984777336c6b2b8da26e3538a0fcf0905e4"
+    },
+    {
+      "path": "src/assets/fonts/Irancell.ttf",
+      "sha1": "554d8c50c0f26e93ebd7268c28ac5d7e13c943b0"
+    }
+  ]
+}
