@@ -1,27 +1,7 @@
 export default {
     purple: '#b2b1de',
-    water_blue: '#1c8adb',
     black: '#323232',
-    warm_grey80: '#939393',
-    warm_grey100: '#777777',
     white100: '#ffffff',
-    white80: '#f9f9f9',
-    white60: '#f5f5f5',
     white40: '#e5e5e5',
-    white20: '#eeeeee',
-    brownish_grey: '#636363',
-    piss_yellow: '#dbd51c',
-    light_navy: '#135f96',
-    darkish_pink: '#db1c95',
-    tomato: '#db1c1c',
-    spruce: '#0d742c',
-    dark_sea_green: '#12983a',
-    light_grey_blue: '#99bdd8',
-    rusty_red: '#ae1818',
-    disableBlue: '#A4D0F1',
-    disableDarkmode: '#295575',
-    disbaleWhiteBtn: '#76B9E9',
-    disableDarkModeWater_Blue: '#467293',
-    greyish: '#b1b1b1'
   };
   
